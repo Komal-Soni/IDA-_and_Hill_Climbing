@@ -11,6 +11,6 @@ response.
 2. Efficiently plan the route for inspection and maintenance crews to visit every location
 in the network at least once, ensuring the health and safety of the water channel system.
 Use the following algorithms to solve the problem:
-1. IDA*
-2. Hill Climbing
+  1. IDA*
+  2. Hill Climbing
 <img width="351" alt="image" src="https://github.com/Komal-Soni/IDA_and_Hill_Climbing/assets/60307387/92322da2-b1e4-420a-aa35-7557d01a9ebe">
